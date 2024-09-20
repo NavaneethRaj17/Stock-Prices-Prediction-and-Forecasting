@@ -4,7 +4,7 @@ This project aims to predict stock prices using Long Short-Term Memory networks 
 # Features
 Collects historical stock price data from [Tiingo API](https://www.tiingo.com/documentation/general/overview).Preprocesses the data using MinMaxScaler for normalization.Implements an LSTM model for time series forecasting.Visualizes predictions against actual prices.Exports predictions to CSV for further analysis.
 
-#Libraries employed
+# Libraries employed
 Pandas
 NumPy
 Matplotlib
